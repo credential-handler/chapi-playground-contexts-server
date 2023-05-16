@@ -5,6 +5,7 @@
   "type": "module",
   "main": "./lib/index.js",
   "scripts": {
+    "start": "node --preserve-symlinks dev.js",
     "lint": "eslint ."
   },
   "repository": {
@@ -29,5 +30,14 @@
     "eslint-config-digitalbazaar": "^4.2.0",
     "eslint-plugin-jsdoc": "^40.3.0",
     "eslint-plugin-unicorn": "^45.0.2"
+  },
+  "dependencies": {
+    "@bedrock/app-identity": "^4.0.0",
+    "@bedrock/config-yaml": "^4.0.0",
+    "@bedrock/core": "^6.0.1",
+    "@bedrock/express": "^8.2.0",
+    "@bedrock/health": "^3.1.2",
+    "@bedrock/server": "^5.0.0",
+    "@credential-handler/vc-examples": "credential-handler/vc-examples#add-contexts-dir"
   }
 }
