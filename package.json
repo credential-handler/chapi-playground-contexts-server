@@ -1,0 +1,33 @@
+{
+  "name": "@credential-handler/chapi-playground-contexts-server",
+  "version": "0.0.1",
+  "description": "Serves contexts for chapi playground example credentials.",
+  "type": "module",
+  "main": "./lib/index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/credential-handler/chapi-playground-contexts-server"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/credential-handler/chapi-playground-contexts-server/issues"
+  },
+  "homepage": "https://github.com/credential-handler/chapi-playground-contexts-server#readme",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "eslint-config-digitalbazaar": "^4.2.0",
+    "eslint-plugin-jsdoc": "^40.3.0",
+    "eslint-plugin-unicorn": "^45.0.2"
+  }
+}
