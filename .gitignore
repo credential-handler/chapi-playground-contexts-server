@@ -1,0 +1,15 @@
+*.py[co]
+*.sw[nop]
+*~
+.DS_Store
+.thumbs.db
+.cache
+.project
+.settings
+.vscode
+TAGS
+coverage
+node_modules
+pki
+reports
+package-lock.json
