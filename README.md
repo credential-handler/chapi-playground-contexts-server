@@ -1,4 +1,4 @@
-# @credential-handler/chapi-playground-contexts-server
+# @credential-handler/vc-playground-contexts-server
 
 > Serves contexts of example credentials for CHAPI Playground.
 
@@ -24,8 +24,8 @@ pulled in from [vc-examples](https://github.com/credential-handler/vc-examples).
 To install and start server locally (for development):
 
 ```
-git clone https://github.com/credential-handler/chapi-playground-contexts-server.git
-cd chapi-playground-contexts-server
+git clone https://github.com/credential-handler/vc-playground-contexts-server.git
+cd vc-playground-contexts-server
 npm install
 npm start
 ```

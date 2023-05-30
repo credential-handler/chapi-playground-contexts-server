@@ -1,5 +1,5 @@
 {
-  "name": "@credential-handler/chapi-playground-contexts-server",
+  "name": "@credential-handler/vc-playground-contexts-server",
   "version": "0.0.1",
   "description": "Serves contexts for chapi playground example credentials.",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/credential-handler/chapi-playground-contexts-server"
+    "url": "https://github.com/credential-handler/vc-playground-contexts-server"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
@@ -19,9 +19,9 @@
   },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/credential-handler/chapi-playground-contexts-server/issues"
+    "url": "https://github.com/credential-handler/vc-playground-contexts-server/issues"
   },
-  "homepage": "https://github.com/credential-handler/chapi-playground-contexts-server#readme",
+  "homepage": "https://github.com/credential-handler/vc-playground-contexts-server#readme",
   "engines": {
     "node": ">=18"
   },
