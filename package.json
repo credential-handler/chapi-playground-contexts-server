@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/credential-handler/chapi-playground-contexts-server#readme",
   "engines": {
-    "node": ">=16"
+    "node": ">=18"
   },
   "devDependencies": {
     "eslint": "^8.40.0",
