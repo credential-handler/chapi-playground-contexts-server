@@ -38,6 +38,6 @@
     "@bedrock/express": "^8.2.0",
     "@bedrock/health": "^3.1.2",
     "@bedrock/server": "^5.0.0",
-    "@credential-handler/vc-examples": "credential-handler/vc-examples#add-contexts-dir"
+    "@credential-handler/vc-examples": "^4.0.0"
   }
 }
