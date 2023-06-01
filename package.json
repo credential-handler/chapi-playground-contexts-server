@@ -32,7 +32,6 @@
     "eslint-plugin-unicorn": "^45.0.2"
   },
   "dependencies": {
-    "@bedrock/app-identity": "^4.0.0",
     "@bedrock/config-yaml": "^4.0.0",
     "@bedrock/core": "^6.0.1",
     "@bedrock/express": "^8.2.0",
