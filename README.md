@@ -32,7 +32,7 @@ npm start
 
 ## Usage
 
-### Add/Update Contexts
+### Add / Update Contexts
 
 Please add or update credential contexts in the `contexts` dir in
 [vc-examples](https://github.com/credential-handler/vc-examples) repo.
