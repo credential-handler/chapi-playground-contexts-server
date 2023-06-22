@@ -1,6 +1,6 @@
 # @credential-handler/vc-playground-contexts-server Changelog
 
-## 1.0.1 - 2023-06-TBD
+## 1.0.1 - 2023-06-22
 
 ### Fixed
 - Use `@credential-handler/vc-examples@5.0`. Updates context URLs to a cleaner
