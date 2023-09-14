@@ -1,6 +1,6 @@
 {
   "name": "@credential-handler/vc-playground-contexts-server",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Serves contexts for chapi playground example credentials.",
   "type": "module",
   "main": "./lib/index.js",
