@@ -1,6 +1,6 @@
 # @credential-handler/vc-playground-contexts-server Changelog
 
-## 1.1.0 - 2023-09-xx
+## 1.1.0 - 2023-09-22
 
 ### Changed
 - Use `@credential-handler/vc-examples@5.3.0`.
