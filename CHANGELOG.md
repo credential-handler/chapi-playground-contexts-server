@@ -1,5 +1,10 @@
 # @credential-handler/vc-playground-contexts-server Changelog
 
+## 1.4.1 - 2023-10-xx
+
+### Changed
+- Pin to last working version of NodeJS 20 in Dockerfile.
+
 ## 1.4.0 - 2023-10-30
 
 ### Changed
