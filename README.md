@@ -23,12 +23,18 @@ pulled in from [vc-examples](https://github.com/credential-handler/vc-examples).
 
 To install and start server locally (for development):
 
+```sh
+$ git clone https://github.com/credential-handler/vc-playground-contexts-server.git
+$ cd vc-playground-contexts-server
+$ npm install
+$ npm start
+$ curl -k https://localhost:65443/examples/movie-ticket/v2.json
 ```
-git clone https://github.com/credential-handler/vc-playground-contexts-server.git
-cd vc-playground-contexts-server
-npm install
-npm start
-```
+
+The `contexts` directory of the
+[vc-examples](https://github.com/credential-handler/vc-examples) repo is served
+statically from the `/examples/` folder. Contexts are consequently available at
+URLs similar to `http://localhost:65443/examples/alumni/v1.json`
 
 ## Usage
 
