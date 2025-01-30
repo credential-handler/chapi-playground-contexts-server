@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is archived. Example contexts are now served staticly directly
+> from the [vc-examples repo](https://github.com/credential-handler/vc-examples).
+
 # @credential-handler/vc-playground-contexts-server
 
 > Serves contexts of example credentials for CHAPI Playground.
